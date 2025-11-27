@@ -8,3 +8,7 @@ I created this circuit as an assignment for my Digital Logic Design course to de
 The circuit consists of two 7-segment displays (one on the left for the tens digit and one on the right for the units digit). It is capable of displaying decimal numbers from 00 to 99. Therefore, this counter operates in decimal (base-10) format, not hexadecimal.
 Versi yang lebih ringkas dan sering dipakai di README:
 This circuit was designed as a course assignment in Digital Logic Design to show how basic logic gates can be used to control multiple outputs in electronic devices. Using Logisim, I built a two-digit decimal counter (00–99) with two 7-segment displays — one for the tens digit and one for the units digit. The counter works in decimal (base-10), not hexadecimal.
+
+
+
+<img width="1127" height="926" alt="image" src="https://media.discordapp.net/attachments/1067644201870819370/1443622835745718394/image.png?ex=6929be09&is=69286c89&hm=72362803e725b9f83222444f8e75c9c5c3c324aa2cbf09d6ba6d3b87d1b2deb1&=&format=webp&quality=lossless" />
