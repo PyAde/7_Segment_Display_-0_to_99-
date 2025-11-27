@@ -11,4 +11,8 @@ This circuit was designed as a course assignment in Digital Logic Design to show
 
 
 
-<img width="610" height="320" alt="image" src="https://media.discordapp.net/attachments/1067644201870819370/1443622835745718394/image.png?ex=6929be09&is=69286c89&hm=72362803e725b9f83222444f8e75c9c5c3c324aa2cbf09d6ba6d3b87d1b2deb1&=&format=webp&quality=lossless" />
+<p align="center">
+  <img width="700" src="https://media.discordapp.net/attachments/1067644201870819370/1443622835745718394/image.png?ex=6929be09&is=69286c89&hm=72362803e725b9f83222444f8e75c9c5c3c324aa2cbf09d6ba6d3b87d1b2deb1&=&format=webp&quality=lossless">
+  <br>
+  <em>Two-digit decimal counter (00–99) using two 7-segment displays in Logisim</em>
+</p>
