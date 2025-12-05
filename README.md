@@ -27,3 +27,21 @@ This circuit was designed as a course assignment in Digital Logic Design to show
 | **8** | `1000` | 1 | 0 | 0 | 0 |
 | **9** | `1001` | 1 | 0 | 0 | 1 |
 
+#BCD to 7-Segment Decoder Truth Table (0-9)
+
+This table outlines the logic for converting 4-bit Binary Coded Decimal (BCD) inputs into 7-segment display outputs. The logic is **Active High** (1 = LED On, 0 = LED Off).
+
+| Decimal | Input (D C B A) | a | b | c | d | e | f | g |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **0** | `0000` | 1 | 1 | 1 | 1 | 1 | 1 | 0 |
+| **1** | `0001` | 0 | 1 | 1 | 0 | 0 | 0 | 0 |
+| **2** | `0010` | 1 | 1 | 0 | 1 | 1 | 0 | 1 |
+| **3** | `0011` | 1 | 1 | 1 | 1 | 0 | 0 | 1 |
+| **4** | `0100` | 0 | 1 | 1 | 0 | 0 | 1 | 1 |
+| **5** | `0101` | 1 | 0 | 1 | 1 | 0 | 1 | 1 |
+| **6** | `0110` | 1 | 0 | 1 | 1 | 1 | 1 | 1 |
+| **7** | `0111` | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| **8** | `1000` | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| **9** | `1001` | 1 | 1 | 1 | 1 | 0 | 1 | 1 |
+
+
